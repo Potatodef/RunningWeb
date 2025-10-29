@@ -34,3 +34,13 @@ GEMINI_API_KEY = your google ai cloud key
 run frontend on vscode and backend on intellij
 
 frontend will be accessible via localhost:5173 on vite
+
+### **Images Of Application** 
+<div display="flex">
+  <img src="images/RunningWeb_HomePage.jpg" width="500" height="380"> 
+  <img src="images/RunningWeb_WeatherPage.jpg" width="500" height="380"> 
+  <img src="images/RunningWeb_GymPage.jpg" width="500" height="380"> 
+  <img src="images/RunningWeb_FitbitPage.jpg" width="500" height="380"> 
+  <img src="images/RunningWeb_AIresponsePage.jpg" width="500" height="380"> 
+</div>
+
